@@ -14,3 +14,7 @@ The dataset contains the SMS data for the riders from Vahan’s platform. Vahan 
 - My findings suggest that there were approximately 37856 messages that potentially have transactional data 
 
 ## Pictorial representation of Findings:-
+![alt text](https://github.com/PreritSM/EDA-on-SMS-data-Vahaan.ai-/blob/main/images/spend-credit.png?raw=true)
+![alt text](https://github.com/PreritSM/EDA-on-SMS-data-Vahaan.ai-/blob/main/images/cash_inflow.png?raw=true)
+![alt text](https://github.com/PreritSM/EDA-on-SMS-data-Vahaan.ai-/blob/main/images/emi-loan.png?raw=true)
+![alt text](https://github.com/PreritSM/EDA-on-SMS-data-Vahaan.ai-/blob/main/images/txn_count.png?raw=true)
